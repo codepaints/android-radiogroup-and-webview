@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RGB Background Changer</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="google">Google</string>
+    <string name="yahoo">Yahoo</string>
+</resources>
