@@ -2,7 +2,6 @@ package me.jatinsoni.rgbbackgroundchanger;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
-import android.os.Build;
 import android.os.Bundle;
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.ActionBar;
