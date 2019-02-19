@@ -4,8 +4,14 @@
     <color name="colorPrimaryDark">#512DA8</color>
     <color name="colorAccent">#FFEB3B</color>
     <color name="colorButtonText">#37474F</color>
+    <color name="colorRedDark">#D32F2F</color>
+    <color name="colorRed">#F44336</color>
     <color name="bgRed">#EF5350</color>
+    <color name="colorGreenDark">#00796B</color>
+    <color name="colorGreen">#009688</color>
     <color name="bgGreen">#26A69A</color>
+    <color name="colorBlueDark">#1976D2</color>
+    <color name="colorBlue">#2196F3</color>
     <color name="bgBlue">#42A5F5</color>
     <color name="bgDefault">#FFFFFF</color>
 </resources>
